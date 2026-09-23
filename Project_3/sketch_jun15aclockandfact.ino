@@ -49,8 +49,8 @@ int alarmPatternStep = 0;
 TM1637Display segDisplay(CLK, DIO);
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-const char* ssid = "NEERAJ";
-const char* password = "12345678";
+const char* ssid = "wifiSSID";
+const char* password = "WIFI PASS";
 
 ESP8266WebServer server(80);
 
