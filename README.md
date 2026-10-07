@@ -1,6 +1,6 @@
 # 🔧 Arduino Projects
 
-A collection of my Arduino-based projects and experiments, covering electronics, embedded systems, automation, sensors, and IoT.
+A collection of my Arduino-based projects and experiments, covering, embedded systems, automation, sensors, and IoT.
 
 ## 📌 About
 
