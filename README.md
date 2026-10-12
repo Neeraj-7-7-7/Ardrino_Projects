@@ -4,7 +4,7 @@
 
 ## 📌 About
 
-This repository contains various projects I've built while learning and exploring **Arduino development, embedded programming, electronics, and hardware interfacing**. Each project focuses on practical implementation and experimentation with different sensors, modules, displays, and electronic components.
+This repository contains various projects I've built while learning and exploring **Arduino development, embedded programming, electronics, and hardware interfacing**. Each project focuses on practical implementation and experimentation with different sensors, modules, displays,electronic components.
 
 ## 🛠️ Technologies & Hardware
 
